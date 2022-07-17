@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...advance python
 - 💞️ I’m looking to collaborate on ...how to develop the above project
 - 📫 How to reach me ...through mail and whatsapp(ahmedomodaraq8@gmail.com /  +2347084858476)
+- ✔❤ I am a Nigerian 
 
 <!---
 Omodaraq/Omodaraq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
